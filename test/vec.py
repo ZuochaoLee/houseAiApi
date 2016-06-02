@@ -1,0 +1,12 @@
+vector={
+	'0':"{'domain':'bourgth','intent':'info'}"
+	'1':"{'domain':'bourgth','intent':'baseinfo'}",
+	'2':"{'domain':'bourgth','intent':'aroundinfo'}",
+	'3':"{'domain':'bourgth','intent':'priceinfo'}",
+	'4':"{'domain':'coupons','intent':'receive'}",
+	'5':"{'domain':'broker','intent':'fee'}",
+	'6':"{'domain':'house','intent':'search'}",
+	'7':"{'domain':'calculator','intent':'fee'}",
+	'8':"{'domain':'qa','intent':'qa'}",
+	'9':"{'domain':'intro','intent':'intro'}"
+}
